@@ -17,10 +17,6 @@ class App extends React.Component {
         {
           name: 'Zombie',
           id: '3'
-        },
-        {
-          name: 'Henrique pauzudo',
-          id: '4'
         }
       ],
       searchField: '',
